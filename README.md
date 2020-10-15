@@ -13,5 +13,5 @@
 - ⚡ Fun fact: I enjoy every moment of my life with a smile on my face.
 
 <img src="https://github-readme-stats.vercel.app/api?username=kumarjhar&theme=algolia&show_icons=true"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarjhar"></img>
+
 
