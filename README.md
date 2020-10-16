@@ -1,7 +1,7 @@
 
 ### Hi there , I'm Rahul!👋
 
-
+   <img src="https://github-readme-stats.vercel.app/api?username=kumarjhar&theme=algolia&show_icons=true"></img>
 
 - 🔭 I’m currently working on my rating of hackerrank.
 - 🌱 I’m currently learning Android studio.
