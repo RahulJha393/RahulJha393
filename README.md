@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=kumarjhar&theme=algolia&show_icons=true"></img>
+
 ### Hi there , I'm Rahul!👋
 
 
