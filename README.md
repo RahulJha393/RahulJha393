@@ -11,7 +11,7 @@
 - 📫 How to reach me: mail:kumarjhar393@gmail.com .
 - 😄 Pronouns: Hi/hII.
 - ⚡ Fun fact: I enjoy every moment of my life with a smile on my face.
-<img src="https://github-readme-stats.vercel.app/api?username=kumarjhar&theme=algolia&show_icons=true"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=rahuljha393&theme=algolia&show_icons=true"></img>
   
 
 
