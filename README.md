@@ -4,8 +4,9 @@
 <strong>👨‍💻About me</strong>   
 
 - 🔭 I’m currently working on my rating of hackerrank.
-- 🌱 I’m currently learning Android studio.
-- 👯 I’m looking to collaborate on youtube.
+- 🔭 Preparing for google code jam and Kick start 2020.
+- 🌱 I’m currently learning STL of C++.
+- 👯 I’m looking to jump into advance compititive programming.
 - 🤔 I’m looking for help with tensor flow OCR and trainning tess data.
 - 💬 Ask me about python or ant tech related stuff.
 - 📫 How to reach me: mail:kumarjhar393@gmail.com .
