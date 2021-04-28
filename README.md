@@ -1,6 +1,6 @@
 
 ### Hi there , I'm Rahul!👋
-
+<img align="right" alt="GIF" src="https://github.com/Ujwaldeep/Ujwaldeep/blob/main/gif3.gif" width="500"/>
 <strong>👨‍💻About me</strong>   
 
 - 🔭 I’m currently working on my rating of hackerrank.
@@ -12,6 +12,8 @@
 - 📫 How to reach me: mail:kumarjhar393@gmail.com .
 - 😄 Pronouns: Hi/hII.
 - ⚡ Fun fact: I enjoy every moment of my life with a smile on my face.
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=rahuljha393&theme=algolia&show_icons=true"></img>
   
 
