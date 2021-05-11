@@ -1,6 +1,6 @@
 
 ### Hi there , I'm Rahul!👋
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/BonyWeeklyAmethystgemclam-small.gif" width="400"/>
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/139d5d4e053eba43345f0fc499d05aab/tumblr_o7vs1zNO341runoqyo9_540.gifv" width="400"/>
 <strong>👨‍💻About me</strong>   
 
 - 🔭 I’m currently working on my rating of hackerrank.
