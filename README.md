@@ -3,8 +3,8 @@
 
 <strong>👨‍💻About me</strong>   
 
-- 🔭 I’m currently working on my rating of hackerrank.
-- 🔭 Preparing for google code jam and Kick start 2021.
+- 🔭 I’m currently working on my Web Development skills.
+- 🔭 Brushing up my SEO skills.
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to jump into advance compititive programming.
 - 🤔 I’m looking for help with tensor flow OCR and trainning tess data.
