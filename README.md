@@ -14,6 +14,6 @@
 <br>
 
 <!---<img src="https://github-readme-stats.vercel.app/api?username=rahuljha393&theme=algolia&show_icons=true"></img> --->
-  
+[![](https://visitcount.itsvg.in/api?id=rahulJha393&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
