@@ -3,7 +3,7 @@
 
 <strong>👨‍💻About me</strong>   
 
-- 🔭 I’m currently working as ASE in Xperi.
+- 🔭 I’m currently working as SDE-1 in Xperi.
 - 🔭 Building product with strong architectures.
 - 🌱 I’m currently working of dev products and learning various emerging tech stacks.
 - 👯 I’m looking to jump into advance compititive programming.
